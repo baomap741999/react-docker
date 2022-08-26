@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello React!</h1>
         <p>Test circleci</p>
-        <p>tôi là ai</p>
+        <p>tôi là ai là ai</p>
       </header>
     </div>
   );
